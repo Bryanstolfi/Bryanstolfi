@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs>
+    <radialGradient id="glow" cx="78%" cy="20%" r="70%">
+      <stop offset="0" stop-color="#D4AF37" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#D4AF37" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="line" x1="0" x2="1">
+      <stop offset="0" stop-color="#D4AF37" stop-opacity="0"/>
+      <stop offset="0.2" stop-color="#D4AF37"/>
+      <stop offset="0.8" stop-color="#D4AF37"/>
+      <stop offset="1" stop-color="#D4AF37" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="24" fill="#0a0a0b"/>
+  <rect width="1200" height="300" rx="24" fill="url(#glow)"/>
+  <g stroke="#ffffff" stroke-opacity="0.04">
+    <path d="M0 60H1200M0 120H1200M0 180H1200M0 240H1200"/>
+  </g>
+  <polyline points="0,250 160,250 190,250 210,224 232,274 252,250 420,250 446,226 470,266 492,250 700,250 724,212 750,282 774,250 960,250 986,234 1008,262 1030,250 1200,250"
+    fill="none" stroke="url(#line)" stroke-width="3" stroke-linejoin="round">
+    <animate attributeName="stroke-dasharray" values="0 2400;2400 0" dur="3s" fill="freeze"/>
+  </polyline>
+  <text x="64" y="118" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="64" font-weight="800" fill="#ffffff">Bryan Stolfi</text>
+  <text x="66" y="160" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="600" fill="#D4AF37" letter-spacing="2">KOTIM · DESENVOLVEDOR FULL-STACK</text>
+  <text x="66" y="196" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="22" fill="#aeaeb2">Sites, apps e sistemas para empresas · Blumenau, SC</text>
+</svg>
