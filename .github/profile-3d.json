@@ -1,0 +1,11 @@
+{
+  "type": "normal",
+  "fileName": "profile-gold.svg",
+  "backgroundColor": "#0a0a0b",
+  "foregroundColor": "#d1d1d6",
+  "strongColor": "#D4AF37",
+  "weakColor": "#8e8e93",
+  "radarColor": "#D4AF37",
+  "growingAnimation": true,
+  "contribColors": ["#1c1c1e", "#4a3d10", "#7a6418", "#a88a24", "#D4AF37"]
+}

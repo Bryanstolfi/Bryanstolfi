@@ -113,20 +113,11 @@ const kotim = {
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Bryanstolfi&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0a0a0b&title_color=D4AF37&icon_color=D4AF37&text_color=d1d1d6&ring_color=D4AF37&locale=pt-br&rank_icon=github" alt="Estatísticas">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bryanstolfi&layout=compact&hide_border=true&bg_color=0a0a0b&title_color=D4AF37&text_color=d1d1d6&locale=pt-br" alt="Linguagens">
+  <img width="100%" src="./profile-3d-contrib/profile-gold.svg" alt="Contribuições em 3D">
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Bryanstolfi&hide_border=true&background=0a0a0b&ring=D4AF37&fire=D4AF37&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=D4AF37&sideLabels=AEAEB2&dates=8E8E93&locale=pt_BR" alt="Sequência">
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Bryanstolfi&bg_color=0a0a0b&color=d1d1d6&line=D4AF37&point=FFFFFF&area=true&area_color=D4AF37&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es%20nos%20%C3%BAltimos%2031%20dias" alt="Gráfico de atividade">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bryanstolfi&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Troféus">
 </p>
 
 ## 🐍 Comendo minhas contribuições
